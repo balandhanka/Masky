@@ -1,3 +1,2 @@
 # Masky
 A Face mask detector application in python
-### Under costruction wait for some time.....
